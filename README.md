@@ -2,7 +2,7 @@
 
 # This is my portfolio
 - https://next-js-portfolio-kappa-ten.vercel.app/
-- 
+  
 # Here are some projects/learnings that I'm currently working on.
 - Currently working on my Next.js Listening Party Web Application
 - Next on my agenda after finishing my projects would be Machine Learning and All that shenanigans surrounding it.
