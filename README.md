@@ -2,12 +2,6 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="Bg.gif"  />
-</div>
-
-###
-
 ###
 
 <div align="center">
