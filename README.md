@@ -1,4 +1,6 @@
-<img align="center" height="200" src="https://i.imgflip.com/93vygu.gif"  />
+<div align="center">
+  <img height="200" src="https://i.imgflip.com/93vygu.gif"  />
+</div>
 
 ###
 
