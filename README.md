@@ -1,12 +1,6 @@
-<img align="left" height="200" src="https://i.imgflip.com/93vygu.gif"  />
-
-###
-
-<div align="left">
-  <img height="200" src="Preview.png"  />
+<div align="center">
+<img height="200" src="https://i.imgflip.com/93vygu.gif"  />
 </div>
-
-###
 
 ###
 
