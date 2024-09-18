@@ -1,4 +1,14 @@
-<h2 align="left"></h2>
+<div align="center">
+  <img height="150" src="https://i.imgflip.com/93vygu.gif"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+</div>
 
 ###
 
@@ -9,10 +19,6 @@
   <img src="https://github-profile-trophy.vercel.app?username=soliken1&theme=dracula&column=-1&row=1&margin-w=25&margin-h=5&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=soliken1&radius=16&theme=react&area=true&order=5&hide_title=false&area_color=fda4af&line=fda4af&point=f43f5e" height="300" alt="activity-graph graph"  />
 </div>
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/93vygu.gif"  />
 
 ###
 
