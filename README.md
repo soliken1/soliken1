@@ -34,7 +34,7 @@
 
 ###
 
-<h2 class="center">My Current Tech Stack</h2>
+<h2 align="center">My Current Tech Stack</h2>
 
 ###
 
