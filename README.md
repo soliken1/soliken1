@@ -34,7 +34,7 @@
 
 ###
 
-<p align="center">I'm Kenneth from the Philippines<br><br>- 🔭 I’m working as a Developer<br>- 📚 I'm currently learning on IT<br>- ⚡ In my free time I play games and an instrument</p>
+<p align="center">I'm Kenneth from the Philippines<br><br>- 🔭 I’m working as a Developer<br>- 📚 I'm currently learning on IT<br>
 
 ###
 
